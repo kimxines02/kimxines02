@@ -46,7 +46,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 </td><td valign="top" width="50%">
 
-<img src="https://post.mangabreeze.com/wp-content/themes/twentytwentytwo/img/marie.png" align="left" height="400" width="400" />  
+<img src="https://post.mangabreeze.com/wp-content/themes/twentytwentytwo/img/marie.png" align="left" height="370" width="370" />  
 
 
 </td></tr></table>  
