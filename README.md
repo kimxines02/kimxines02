@@ -23,7 +23,7 @@
 ### Glad to see you here!  
 I’m a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop web applications projects but also develop it with cutting edge backend support.
 
-I specialize in developing WordPress, Laravel, and GatsbyJs that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective.  
+I am a professional web developer with 8+ years of experience and proven knowledge of web application development, e-commerce, web frameworks, and web platform development. I have worked on projects ranging from small sites to large-scale applications that cater to the needs of tens of thousands of users. My goal is to share my knowledge and skills with you so that you can successfully fill the Web Developer role at your company.
   
 
 <br/>  
