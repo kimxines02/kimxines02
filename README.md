@@ -46,7 +46,7 @@ I am a professional web developer with 8+ years of experience and proven knowled
 
 </td><td valign="top" width="50%">
 
-<img src="https://post.mangabreeze.com/wp-content/themes/twentytwentytwo/img/marie.png" align="left" height="370" width="370" />  
+<img src="https://codexbloc.org/wp-content/themes/twentytwenty/assets/images/chris.png" align="left" height="370" width="370" />  
 
 
 </td></tr></table>  
