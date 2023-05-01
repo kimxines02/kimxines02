@@ -23,7 +23,9 @@
 ### Glad to see you here!  
 I’m a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop web applications projects but also develop it with cutting edge backend support.
 
-I am a professional web developer with 8+ years of experience and proven knowledge of web application development, e-commerce, web frameworks, and web platform development. I have worked on projects ranging from small sites to large-scale applications that cater to the needs of tens of thousands of users. 
+As a highly skilled web developer, I specialize in creating responsive and user-friendly websites and web applications. With a strong proficiency in HTML, CSS, JavaScript, PHP, and various frameworks and technologies, I'm capable of creating dynamic and engaging web experiences that meet the unique needs of my clients.
+
+Throughout my career, I've had the opportunity to work with clients from a variety of industries, including digital marketing, e-commerce, and blog/portfolio. From small startups to large corporations, I've worked closely with my clients to understand their goals and objectives, and have delivered high-quality web solutions that meet their needs.
   
 
 <br/>  
