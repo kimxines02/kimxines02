@@ -117,4 +117,4 @@ I'm a full-stack developer with years of freelancing experience turned into a fu
 <br />
 
 ----
-<div align="center"><a href="https://chrismarie.dev/" target="_blank">chrismarie.dev</a></div>
+<div align="center"><a href="https://cmarie.dev/" target="_blank">cmarie.dev</a></div>
