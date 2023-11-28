@@ -21,11 +21,7 @@
 
 
 ### Glad to see you here!  
-I’m a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop web applications projects but also develop it with cutting-edge backend support.
-
-As a highly skilled web developer, I specialize in creating responsive and user-friendly websites and web applications. With a strong proficiency in HTML, CSS, JavaScript, PHP, and various frameworks and technologies, I'm capable of creating dynamic and engaging web experiences that meet the unique needs of my clients.
-
-Throughout my career, I've had the opportunity to work with clients from a variety of industries, including digital marketing, e-commerce, and blog/portfolio. From small startups to large corporations, I've worked closely with my clients to understand their goals and objectives, and have delivered high-quality web solutions that meet their needs.
+I'm a full-stack developer with years of freelancing experience turned into a full-time career. As a versatile developer, I not only create web applications but also integrate cutting-edge backend support. Specializing in HTML, CSS, JavaScript, PHP, and various frameworks, I excel in building responsive and user-friendly websites. I've successfully collaborated with clients across diverse industries, tailoring dynamic web solutions to meet their unique goals. From small startups to large corporations, I'm committed to delivering high-quality results that align with my clients' needs.
   
 
 <br/>  
