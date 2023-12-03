@@ -22,9 +22,7 @@
 ### Glad to see you here!  
 I'm a full-stack developer with years of freelancing experience turned into a full-time career. As a versatile developer, I not only create web applications but also integrate cutting-edge backend support. Specializing in HTML, CSS, JavaScript, PHP, and various frameworks, I excel in building responsive and user-friendly websites. I've successfully collaborated with clients across diverse industries, tailoring dynamic web solutions to meet their unique goals. From small startups to large corporations, I'm committed to delivering high-quality results that align with my clients' needs.
   
-
 <br/>  
-
 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
