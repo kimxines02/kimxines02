@@ -21,33 +21,8 @@
 
 ### Glad to see you here!  
 Hey there! I'm an experienced full-stack developer who loves building websites that people actually enjoy using. I'm all about making things responsive and easy to navigate. With expertise in HTML, CSS, JavaScript, PHP, and a bunch of frameworks, I've worked with clients from all walks of life, creating custom solutions to fit their needs perfectly. Whether it's a small startup or a big company, I'm dedicated to delivering top-notch results with a smile.
-  
-<br/>  
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently working on [Gatsby-WP Project](https://github.com/kimxines02/)  
-  
-
-- 🌱 I’m currently learning Python and Django  
-  
-
-- 👨‍💻 All of my projects are available at https://chrismarie.dev  
-  
-
-- ⚡ Fun fact: I like watching anime.  
-
-
-</td><td valign="top" width="50%">
-
-<img src="https://codexbloc.org/wp-content/themes/twentytwenty/assets/images/chris.png" align="left" height="370" width="370" />  
-
-
-</td></tr></table>  
 
 <br/>  
-
 
 ## Languages and Tools  
 <div align="left">  
