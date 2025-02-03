@@ -23,6 +23,7 @@
 <img src="https://img.shields.io/badge/-vuedotjs-000?&logo=vuedotjs" alt="vue">
 <img src="https://img.shields.io/badge/-nextdotjs-000?&logo=nextdotjs" alt="nextjs">
 <img src="https://img.shields.io/badge/-tailwindcss-000?&logo=tailwindcss" alt="tailwindcss">
+                <img src="https://img.shields.io/badge/-gatsby-000?&logo=gatsby" alt="gatsby">
             </td>
         </tr>
         <tr>
