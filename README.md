@@ -67,6 +67,8 @@
 <img src="https://img.shields.io/badge/-shopify-000?&logo=shopify" alt="shopify">
 <img src="https://img.shields.io/badge/-prestashop-000?&logo=prestashop" alt="prestashop">
                 <img src="https://img.shields.io/badge/-sanity-000?&logo=sanity" alt="sanity">
+                <img src="https://img.shields.io/badge/-auth0-000?&logo=auth0" alt="auth0">
+                <img src="https://img.shields.io/badge/-openai-000?&logo=openai" alt="openai">
             </td>
         </tr>
     </tbody>
