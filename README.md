@@ -56,6 +56,7 @@
 <img src="https://img.shields.io/badge/-notion-000?&logo=notion" alt="notion">
 <img src="https://img.shields.io/badge/-sublimetext-000?&logo=sublimetext" alt="sublimetext">
 <img src="https://img.shields.io/badge/-slack-000?&logo=slack" alt="slack">
+                <img src="https://img.shields.io/badge/-figma-000?&logo=figma" alt="slack">
             </td>
         </tr>
     </tbody>
