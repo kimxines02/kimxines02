@@ -59,6 +59,16 @@
                 <img src="https://img.shields.io/badge/-figma-000?&logo=figma" alt="slack">
             </td>
         </tr>
+            <td>Others</td>
+            <td>
+<img src="https://img.shields.io/badge/-graphql-000?&logo=graphql" alt="graphql">
+<img src="https://img.shields.io/badge/-react-000?&logo=react" alt="react">
+<img src="https://img.shields.io/badge/-wordpress-000?&logo=wordpress" alt="wordpress">
+<img src="https://img.shields.io/badge/-shopify-000?&logo=shopify" alt="shopify">
+<img src="https://img.shields.io/badge/-prestashop-000?&logo=prestashop" alt="prestashop">
+                <img src="https://img.shields.io/badge/-sanity-000?&logo=sanity" alt="sanity">
+            </td>
+        </tr>
     </tbody>
 </table>
 <h2>✒️ Recent Posts</h2>
