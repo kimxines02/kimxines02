@@ -2,12 +2,6 @@
 <p>A passionate frontend developer from PH </p>
 <h2>🚀 Languages and Tools I Use</h2>
 <table>
-    <thead>
-        <tr>
-            <th>Property</th>
-            <th>Data</th>
-        </tr>
-    </thead>
     <tbody>
         <tr>
             <td>Languages</td>
