@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Chris</h1>
-<p>A passionate frontend developer from PH </p>
+<p>I’m a full-stack developer who enjoys building functional, user-friendly websites with clean and efficient code. My focus is on creating simple, intuitive online experiences. </p>
 <h2>🚀 Languages and Tools I Use</h2>
 <table>
     <tbody>
