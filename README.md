@@ -1,7 +1,6 @@
 <h1>Hi 👋, I'm Chris</h1>
 <p>I’m a full-stack developer who enjoys building simple, functional, and user-friendly websites. I focus on creating easy-to-navigate designs and practical solutions. </p>
-![GIF](https://tenor.com/gXaIsvn8W1.gif?raw=true)
-
+<div class="tenor-gif-embed" data-postid="91923132463277037" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/tea-the-khajiit-cute-hearts-love-happy-gif-91923132463277037">Tea The Khajiit Cute Sticker</a>from <a href="https://tenor.com/search/tea+the+khajiit-stickers">Tea The Khajiit Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <h2>🚀 Languages and Tools I Use</h2>
 <table>
     <tbody>
