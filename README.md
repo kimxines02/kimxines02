@@ -16,12 +16,11 @@
         <tr>
             <td>Frameworks</td>
             <td>
-<img src="https://img.shields.io/badge/-nodedotjs-000?&logo=nodedotjs" alt="PHP Badge">
+<img src="https://img.shields.io/badge/-node.js-000?&logo=nodedotjs" alt="PHP Badge">
 <img src="https://img.shields.io/badge/-laravel-000?&logo=laravel" alt="PHP Badge">
 <img src="https://img.shields.io/badge/-codeigniter-000?&logo=codeigniter" alt="PHP Badge">
-<img src="https://img.shields.io/badge/-nextdotjs-000?&logo=nextdotjs" alt="nextjs">
-<img src="https://img.shields.io/badge/-vuedotjs-000?&logo=vuedotjs" alt="vue">
-<img src="https://img.shields.io/badge/-nextdotjs-000?&logo=nextdotjs" alt="nextjs">
+<img src="https://img.shields.io/badge/-next.js-000?&logo=nextdotjs" alt="nextjs">
+<img src="https://img.shields.io/badge/-vue.js-000?&logo=vuedotjs" alt="vue">
 <img src="https://img.shields.io/badge/-tailwindcss-000?&logo=tailwindcss" alt="tailwindcss">
                 <img src="https://img.shields.io/badge/-gatsby-000?&logo=gatsby" alt="gatsby">
             </td>
@@ -46,6 +45,8 @@
             <td>
 <img src="https://img.shields.io/badge/-netlify-000?&logo=netlify" alt="netlify">
 <img src="https://img.shields.io/badge/-vercel-000?&logo=vercel" alt="vercel">
+<img src="https://img.shields.io/badge/-godaddy-000?&logo=godaddy" alt="godaddy">
+<img src="https://img.shields.io/badge/-wpengine-000?&logo=wpengine" alt="wpengine">
             </td>
         </tr>
         <tr>
@@ -69,6 +70,7 @@
                 <img src="https://img.shields.io/badge/-sanity-000?&logo=sanity" alt="sanity">
                 <img src="https://img.shields.io/badge/-auth0-000?&logo=auth0" alt="auth0">
                 <img src="https://img.shields.io/badge/-openai-000?&logo=openai" alt="openai">
+                <img src="https://img.shields.io/badge/-jamstack-000?&logo=jamstack" alt="jamstack">
             </td>
         </tr>
     </tbody>
