@@ -8,70 +8,71 @@
             <td>Languages</td>
             <td>
                 <img src="https://img.shields.io/badge/-PHP-000?&logo=PHP" alt="PHP Badge">
-<img src="https://img.shields.io/badge/-Typescript-000?&logo=Typescript" alt="PHP Badge">
-<img src="https://img.shields.io/badge/-Javascript-000?&logo=Javascript" alt="Javascript">
-<img src="https://img.shields.io/badge/-html5-000?&logo=html5" alt="html5">
-<img src="https://img.shields.io/badge/-css-000?&logo=css" alt="css">
+                <img src="https://img.shields.io/badge/-Typescript-000?&logo=Typescript" alt="PHP Badge">
+                <img src="https://img.shields.io/badge/-Javascript-000?&logo=Javascript" alt="Javascript">
+                <img src="https://img.shields.io/badge/-html5-000?&logo=html5" alt="html5">
+                <img src="https://img.shields.io/badge/-css-000?&logo=css" alt="css">
             </td>
         </tr>
         <tr>
             <td>Frameworks</td>
             <td>
-<img src="https://img.shields.io/badge/-node.js-000?&logo=nodedotjs" alt="PHP Badge">
-<img src="https://img.shields.io/badge/-laravel-000?&logo=laravel" alt="PHP Badge">
-<img src="https://img.shields.io/badge/-codeigniter-000?&logo=codeigniter" alt="PHP Badge">
-<img src="https://img.shields.io/badge/-next.js-000?&logo=nextdotjs" alt="nextjs">
-<img src="https://img.shields.io/badge/-vue.js-000?&logo=vuedotjs" alt="vue">
-<img src="https://img.shields.io/badge/-tailwindcss-000?&logo=tailwindcss" alt="tailwindcss">
+                <img src="https://img.shields.io/badge/-node.js-000?&logo=nodedotjs" alt="PHP Badge">
+                <img src="https://img.shields.io/badge/-laravel-000?&logo=laravel" alt="PHP Badge">
+                <img src="https://img.shields.io/badge/-codeigniter-000?&logo=codeigniter" alt="PHP Badge">
+                <img src="https://img.shields.io/badge/-next.js-000?&logo=nextdotjs" alt="nextjs">
+                <img src="https://img.shields.io/badge/-vue.js-000?&logo=vuedotjs" alt="vue">
+                <img src="https://img.shields.io/badge/-tailwindcss-000?&logo=tailwindcss" alt="tailwindcss">
                 <img src="https://img.shields.io/badge/-gatsby-000?&logo=gatsby" alt="gatsby">
             </td>
         </tr>
         <tr>
             <td>Databases</td>
             <td>
-<img src="https://img.shields.io/badge/-mongodb-000?&logo=mongodb" alt="mongodb">
-<img src="https://img.shields.io/badge/-phpmyadmin-000?&logo=phpmyadmin" alt="phpmyadmin">
-<img src="https://img.shields.io/badge/-mysql-000?&logo=mysql" alt="mysql">
+                <img src="https://img.shields.io/badge/-mongodb-000?&logo=mongodb" alt="mongodb">
+                <img src="https://img.shields.io/badge/-phpmyadmin-000?&logo=phpmyadmin" alt="phpmyadmin">
+                <img src="https://img.shields.io/badge/-mysql-000?&logo=mysql" alt="mysql">
             </td>
         </tr>
         <tr>
             <td>Version Controls & CI/CD</td>
             <td>
-<img src="https://img.shields.io/badge/-git-000?&logo=git" alt="git">
-<img src="https://img.shields.io/badge/-github-000?&logo=github" alt="github">
+                <img src="https://img.shields.io/badge/-git-000?&logo=git" alt="git">
+                <img src="https://img.shields.io/badge/-github-000?&logo=github" alt="github">
             </td>
         </tr>
         <tr>
             <td>Clouds & Hostings</td>
             <td>
-<img src="https://img.shields.io/badge/-netlify-000?&logo=netlify" alt="netlify">
-<img src="https://img.shields.io/badge/-vercel-000?&logo=vercel" alt="vercel">
-<img src="https://img.shields.io/badge/-godaddy-000?&logo=godaddy" alt="godaddy">
-<img src="https://img.shields.io/badge/-wpengine-000?&logo=wpengine" alt="wpengine">
+                <img src="https://img.shields.io/badge/-netlify-000?&logo=netlify" alt="netlify">
+                <img src="https://img.shields.io/badge/-vercel-000?&logo=vercel" alt="vercel">
+                <img src="https://img.shields.io/badge/-godaddy-000?&logo=godaddy" alt="godaddy">
+                <img src="https://img.shields.io/badge/-wpengine-000?&logo=wpengine" alt="wpengine">
             </td>
         </tr>
         <tr>
             <td>IDEs & Tools</td>
             <td>
-<img src="https://img.shields.io/badge/-vscode-000?&logo=vscode" alt="vscode">
-<img src="https://img.shields.io/badge/-postman-000?&logo=postman" alt="postman">
-<img src="https://img.shields.io/badge/-notion-000?&logo=notion" alt="notion">
-<img src="https://img.shields.io/badge/-sublimetext-000?&logo=sublimetext" alt="sublimetext">
-<img src="https://img.shields.io/badge/-slack-000?&logo=slack" alt="slack">
+                <img src="https://img.shields.io/badge/-vscode-000?&logo=vscode" alt="vscode">
+                <img src="https://img.shields.io/badge/-postman-000?&logo=postman" alt="postman">
+                <img src="https://img.shields.io/badge/-notion-000?&logo=notion" alt="notion">
+                <img src="https://img.shields.io/badge/-sublimetext-000?&logo=sublimetext" alt="sublimetext">
+                <img src="https://img.shields.io/badge/-slack-000?&logo=slack" alt="slack">
                 <img src="https://img.shields.io/badge/-figma-000?&logo=figma" alt="slack">
             </td>
         </tr>
             <td>Others</td>
             <td>
-<img src="https://img.shields.io/badge/-graphql-000?&logo=graphql" alt="graphql">
-<img src="https://img.shields.io/badge/-react-000?&logo=react" alt="react">
-<img src="https://img.shields.io/badge/-wordpress-000?&logo=wordpress" alt="wordpress">
-<img src="https://img.shields.io/badge/-shopify-000?&logo=shopify" alt="shopify">
-<img src="https://img.shields.io/badge/-prestashop-000?&logo=prestashop" alt="prestashop">
+                <img src="https://img.shields.io/badge/-graphql-000?&logo=graphql" alt="graphql">
+                <img src="https://img.shields.io/badge/-react-000?&logo=react" alt="react">
+                <img src="https://img.shields.io/badge/-wordpress-000?&logo=wordpress" alt="wordpress">
+                <img src="https://img.shields.io/badge/-shopify-000?&logo=shopify" alt="shopify">
+                <img src="https://img.shields.io/badge/-prestashop-000?&logo=prestashop" alt="prestashop">
                 <img src="https://img.shields.io/badge/-sanity-000?&logo=sanity" alt="sanity">
                 <img src="https://img.shields.io/badge/-auth0-000?&logo=auth0" alt="auth0">
                 <img src="https://img.shields.io/badge/-openai-000?&logo=openai" alt="openai">
                 <img src="https://img.shields.io/badge/-jamstack-000?&logo=jamstack" alt="jamstack">
+                <img src="https://img.shields.io/badge/-canva-000?&logo=canva" alt="canva">
             </td>
         </tr>
     </tbody>
