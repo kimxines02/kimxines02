@@ -1,6 +1,7 @@
 <h1>Hi 👋, I'm Chris</h1>
 <p>I’m a full-stack developer who enjoys building simple, functional, and user-friendly websites. I focus on creating easy-to-navigate designs and practical solutions. </p>
-![Image title](https://tenor.com/gXaIsvn8W1.gif){ .image25percent }
+![GIF](https://tenor.com/gXaIsvn8W1.gif?raw=true)
+
 <h2>🚀 Languages and Tools I Use</h2>
 <table>
     <tbody>
