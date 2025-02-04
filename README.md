@@ -85,7 +85,6 @@
    <a target="_blank" href="https://www.instagram.com/https://www.instagram.com/kimxines02" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kimxines02&show_icons=true&locale=en" alt="kimxines02" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kimxines02&" alt="kimxines02" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kimxines02&show_icons=true&locale=en&layout=compact" alt="kimxines02" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kimxines02" alt="kimxines02" /></a></p>
 <h2>❤️ Support Me</h2>
