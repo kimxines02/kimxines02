@@ -79,7 +79,8 @@
 </table>
 <h2>✒️ Recent Posts</h2>
 <ul>
-<li><a target="_blank" href="#">Crafting a design system for a multiplanetary future</a></li>
+    <li><a target="_blank" href="https://cmarie.dev/articles/soaring-through-time">Soaring Through Time: My Visit to the National Air & Space Museum, Washington, D.C.</a></li>
+    <li><a target="_blank" href="#">Crafting a design system for a multiplanetary future</a></li>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://twitter.com/https://twitter.com/chrismaryey" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
    <a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/chris-marie-ybanez" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
