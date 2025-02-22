@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Chris</h1>
-<p>I’m a Web Developer who enjoys building simple, functional, and user-friendly websites. I focus on creating easy-to-navigate designs and practical solutions. 👾 </p>
+<p>I’m a Web Developer who enjoys building simple, functional, and user-friendly websites. 👾 </p>
 
 <h2>🚀 Languages and Tools I Use</h2>
 <table>
