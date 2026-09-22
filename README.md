@@ -79,6 +79,7 @@
 </table>
 <h2>✒️ Recent Posts</h2>
 <ul>
+    <li><a target="_blank" href="https://profiles.wordpress.org/chrismaryey02">WordPress Profile/</a></li>
     <li><a target="_blank" href="https://cmarie.dev/articles/insights-from-wordcamp-asia">Igniting Innovation: My WordCamp Asia 2025 Experience</a></li>
     <li><a target="_blank" href="https://cmarie.dev/articles/nascar-hall-of-fame-charlotte-nc">Chasing Speed: How The NASCAR Hall of Fame Fueled My Passion for Resilience</a></li>
     <li><a target="_blank" href="https://cmarie.dev/articles/soaring-through-time">Soaring Through Time: My Visit to the National Air & Space Museum, Washington, D.C.</a></li>
